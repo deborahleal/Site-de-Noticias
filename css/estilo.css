@@ -151,6 +151,18 @@ body.fotos #navegacao a#fotos
 	display: block;
 }
 
+a.cor_links_duasColunas{
+
+	text-align: center;
+	color:#fff;
+	background:#b10333 ;
+	padding: 0 5px 0 5px;
+	text-decoration: none;
+	margin: 0 10px;
+	font-size: 0.6em;
+	display: inline;
+}
+
 /*FORMATAR MENUS LATERAIS*/
 
 #conteudo_aba_lateral ul a{
